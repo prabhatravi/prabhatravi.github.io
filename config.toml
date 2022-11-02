@@ -1,4 +1,4 @@
-baseurl      = "https://prabhatravi.co.in/"
+baseurl      = "https://prabhatravi.in/"
 themesDir = "themes"
 publishDir = "docs"
 title = "Prabhat Ravi"
@@ -131,7 +131,7 @@ disableHugoGeneratorInject = false
 
   [[params.social]]
     name = "email"
-    url  = "mailto:hi@prabhatravi.co.in"
+    url  = "mailto:prabhatravihere@gmail.com"
 
   [[params.social]]
     name = "github"
